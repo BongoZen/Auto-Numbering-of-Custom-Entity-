@@ -1,0 +1,15 @@
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\bin\Debug\AutoNumberPlugin.dll
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\bin\Debug\AutoNumberPlugin.pdb
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\obj\Debug\AutoNumberPlugin.csprojAssemblyReference.cache
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\obj\Debug\AutoNumberPlugin.csproj.CoreCompileInputs.cache
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\obj\Debug\AutoNumberPlugin.csproj.CopyComplete
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\obj\Debug\AutoNumberPlugin.dll
+C:\Users\848695\source\repos\AutoNumberPluginSoln\AutoNumberPlugin\obj\Debug\AutoNumberPlugin.pdb
